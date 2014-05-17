@@ -1,0 +1,2 @@
+module ZingersHelper
+end
